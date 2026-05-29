@@ -1,2 +1,17 @@
-# leetcode_daily
-A collection of my LeetCode solutions, algorithms, and data structure practice.
+# LeetCode Daily
+
+This repository contains my daily LeetCode solutions.
+
+## Topics
+- Arrays
+- Strings
+- Hash Tables
+- Linked Lists
+- Trees
+- Dynamic Programming
+- Graphs
+
+## Languages
+- JavaScript
+- TypeScript
+- C
